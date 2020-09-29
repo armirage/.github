@@ -83,7 +83,7 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 ## Acknowledgments
 
-This Code of Conduct is adapted from the Contributor Covenant<sup id="anchor-2">[2](#covenant-note)</sup>
+This Code of Conduct is adapted from the Contributor Covenant.<sup id="anchor-2">[2](#covenant-note)</sup>
 
 ## How to Contribute
 
