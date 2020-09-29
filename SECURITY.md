@@ -58,7 +58,7 @@ Open Source Software (OSS) is only as strong as our Community.
 
 ## Acknowledgements
 
-This policy was adapted form the hapi.js security policy<sup id="anchor-2">[2](#hapijs-note)</sup>. We respect how concise and clear all their documentation is.
+This policy was adapted form the hapi.js security policy.<sup id="anchor-2">[2](#hapijs-note)</sup> We respect how concise and clear all their documentation is.
 
 ## Contact
 
