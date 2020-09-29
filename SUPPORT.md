@@ -82,7 +82,7 @@ Open Source Software (OSS) is only as strong as our Community.
 
 ## Acknowledgements
 
-Peek<sup id="anchor-2">[2](#peek-note)</sup> is an animated GIF screen recorder. It is intuitive and simple for creating screen recordings for READMEs.
+Peek <sup id="anchor-2">[2](#peek-note)</sup> is an animated GIF screen recorder. It is intuitive and simple for creating screen recordings for READMEs.
 
 ## Contact
 
