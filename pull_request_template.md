@@ -1,9 +1,9 @@
 ---
 name: 🦁 Pull request
 about: Describe the changes you are contributing.
-title: ''
+title: ""
 labels: "Status: Review Needed"
-assignees: ''
+assignees: ""
 ---
 
 ## Issue it resolves
