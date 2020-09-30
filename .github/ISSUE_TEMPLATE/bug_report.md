@@ -1,9 +1,9 @@
 ---
 name: 🐛  Report a bug
 about: Let everyone know you broke something, or "found" it that way. *(sarcasm)*
-title: ''
+title: ""
 labels: "Type: Bug"
-assignees: ''
+assignees: ""
 ---
 
 **Version:**

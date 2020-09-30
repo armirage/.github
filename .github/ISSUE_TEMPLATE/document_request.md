@@ -1,9 +1,9 @@
 ---
 name: 📋  Report an issue with documentation
 about: Help improve the written word around here.
-title: ''
+title: ""
 labels: "Type: Documentation"
-assignees: ''
+assignees: ""
 ---
 
 **Type of Issue:**

@@ -1,9 +1,9 @@
 ---
 name: 🛠  Request maintenance
 about: Something works but you think it should be better, or upcoming changes will break it.
-title: ''
+title: ""
 labels: "Type: Maintenance"
-assignees: ''
+assignees: ""
 ---
 
 **Type of Change:**

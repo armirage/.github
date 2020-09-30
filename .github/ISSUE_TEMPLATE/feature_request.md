@@ -1,9 +1,9 @@
 ---
 name: 🎁  Request a feature
 about: Suggest an idea for this project.
-title: ''
+title: ""
 labels: "Type: Enhancement"
-assignees: ''
+assignees: ""
 ---
 
 **Context:**

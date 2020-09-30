@@ -1,9 +1,9 @@
 ---
 name: ❓  Request for information
 about: Pose a question.
-title: ''
+title: ""
 labels: "Type: Question"
-assignees: ''
+assignees: ""
 ---
 
 **Version:**
